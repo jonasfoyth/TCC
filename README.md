@@ -1,7 +1,8 @@
-No arquivo "SIMULACAO", encontram-se as simulaÁıes do estudo de caso LTI. Estas, foram feitas atravÈs das metodologias SEM e SEMR, no qual est„o ambas presentes do mesmo "aquivo" porÈm separadas por diferestes pastas:
+No arquivo "SIMULACAO", encontram-se as simula√ß√µes do estudo de caso LTI. Estas, foram feitas atrav√©s das metodologias SEM e SEMR, no qual est√£o ambas presentes do mesmo "aquivo" por√©m separadas por diferestes pastas:
 
-LTI - AplicaÁ„o da SEM.
-MODULAR1 - AplicaÁ„o da SEMR.
+LTI - Aplica√ß√£o da SEM - Instru√ß√µes sobre a simula√ß√£o: https://youtu.be/EQd5nom4FZ4
 
-D˙vidas ou sugestıes:
+MODULAR1 - Aplica√ß√£o da SEMR - Instru√ß√µes sobre a simula√ß√£o: https://youtu.be/ITb8TLEQ7Xg
+
+D√∫vidas ou sugest√µes:
 jonasfoyth@gmail.com.
